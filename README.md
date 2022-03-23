@@ -1,8 +1,10 @@
 # Weather-Data-Analysis
 It is a project of Data Analysis with Python. 
-#In this with using weather datasets i analysed and find solutions of question using python-
-#Q. 1)  Find all the unique 'Wind Speed' values in the data.
-#Q. 2) Find the number of times when the 'Weather is exactly Clear'.
+
+
+In this with using weather datasets i analysed and find solutions of question using python-
+Q. 1)  Find all the unique 'Wind Speed' values in the data.
+Q. 2) Find the number of times when the 'Weather is exactly Clear'.
 Q. 3) Find the number of times when the 'Wind Speed was exactly 4 km/h'.
 Q. 4) Find out all the Null Values in the data.
 Q. 5) Rename the column name 'Weather' of the dataframe to 'Weather Condition'.
